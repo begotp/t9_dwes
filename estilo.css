@@ -1,0 +1,24 @@
+body{
+    background-color: #efeab7 ;
+}
+h1 {    
+    color: rgb(80, 115, 67);    
+    font-size: 50px;   
+}
+.img{   
+    width: 200px;
+    float: left;
+}
+#vertical{
+    margin-left: 10px;
+    float:left;
+}
+.txt{
+    font-size: 35px;
+    color:rgb(80, 115, 67);
+    font-weight: bold;
+}
+p{
+    font-size: 30px;
+    color: rgb(80, 115, 67);
+}
