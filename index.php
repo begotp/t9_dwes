@@ -30,7 +30,7 @@ $edad = $usuarioGenerado['dob']['age'];
 </style>
 <html>
 <header>
-    <title>Tarea RA8_c</title>
+    <title>Tarea9_DWES</title>
 </header>
 <body>
 <header>
